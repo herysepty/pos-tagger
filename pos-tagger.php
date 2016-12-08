@@ -42,7 +42,7 @@ class posTagger {
 									'Bukunya bagus', 
 									'pakaiannyarapi',
 								],
-		        ]
+		        ];
 	}
 }
 
